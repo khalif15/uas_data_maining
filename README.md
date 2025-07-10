@@ -1,1 +1,2 @@
-# uas_data_maining
+# Analisis-menggunakan-KMeans-Agglomerative-dan-DBSCAN.
+Tugas 2 Data Maining
